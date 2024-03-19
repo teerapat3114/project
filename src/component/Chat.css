@@ -1,0 +1,11 @@
+.chat-container{
+    background-color: #D9D9D9;
+    top: 7%;
+    position: absolute;
+    width: 20%;
+    height: 100%;
+}
+.chat-content{
+    padding-top: 1%;
+    padding-left: 5%;
+}
